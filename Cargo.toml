@@ -1,0 +1,9 @@
+[package]
+name = "ascii_image"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+terminal_size = "0.1.17"
+image = "0.24.1"
+rodio = "0.15.0"
