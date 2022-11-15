@@ -5,5 +5,7 @@ edition = "2021"
 
 [dependencies]
 terminal_size = "0.1.17"
+pico-args = "0.4.2"
 image = "0.24.1"
 rodio = "0.15.0"
+clap = "4.0.24"
